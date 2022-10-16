@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @YunusKarimboyev
 - 👀 I’m interested in programming and sport
 - 🌱 I’m currently learning C and python languages
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 YunusKarimboyev/YunusKarimboyev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
